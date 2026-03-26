@@ -56,7 +56,6 @@ This project delivers an **end-to-end retail analytics solution** using Python t
 
 ## 🔍 Key Insights
 
-<<<<<<< HEAD
 ### 👥 Customer Segmentation (RFM) [🔗](notebook/1_RFM_Analysis.ipynb)
 
 - 45% customers are **regular buyers**
